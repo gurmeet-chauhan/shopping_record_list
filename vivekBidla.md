@@ -1,0 +1,1 @@
+/* added only some bootstap classes and this is responsive

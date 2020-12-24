@@ -10,16 +10,16 @@ body{
 }
 
 form{
-    background-color: rgb(189, 85, 25)        ;
+    background-color:rgb(181 216 189);        ;
     padding: 50px 80px;
     margin: 120px;
     margin-bottom: 30px;
-    height: 10vh;
+    height: 50vh;
     border-radius: 15px;
 }
 
 input{
-    background-color: rgb(206, 201, 201);
+    background-color: rgb(211, 171, 171);
     padding: 10px 40px;
     border-radius: 2px;
     border-style: none;
@@ -33,6 +33,7 @@ input{
     text-align: center;
     padding-top: 30px;
     font-weight: bolder;
+    font-family: ui-sans-serif;
 }
 
 button{
